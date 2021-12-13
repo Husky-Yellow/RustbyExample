@@ -39,3 +39,5 @@ Couldn't start client Rust Language Server
 Rustup not available. Install from https://www.rustup.rs/
 解决方案
 https://github.com/rust-lang/rls/issues/465
+https://zhuanlan.zhihu.com/p/353917073
+
